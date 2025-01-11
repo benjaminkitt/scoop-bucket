@@ -1,0 +1,22 @@
+{
+    "version": "1.0.4",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/benjaminkitt/shape-up-downloader/releases/download/v1.0.4/shape-up-downloader_Windows_x86_64.zip",
+            "bin": [
+                "shape-up.exe"
+            ],
+            "hash": "635a0586226c6dd79692bee0e62fbde7d31ac249af77ecaf5faa6d22061cb4c4"
+        },
+        "arm64": {
+            "url": "https://github.com/benjaminkitt/shape-up-downloader/releases/download/v1.0.4/shape-up-downloader_Windows_arm64.zip",
+            "bin": [
+                "shape-up.exe"
+            ],
+            "hash": "6e54f84319e2909e88744a1ed4e112a84932a240f3b2a4a6dfc674a55f470d74"
+        }
+    },
+    "homepage": "https://github.com/benjaminkitt/shape-up-downloader",
+    "license": "MIT",
+    "description": "Download and convert Basecamp's Shape Up book for e-readers"
+}
